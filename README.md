@@ -31,6 +31,10 @@
     <h2>JPM Stock Price Time Series Analysis</h2>
     <p>Conducted a comprehensive time series analysis of JPM stock prices, including forecasting and volatility modeling.</p>
   </li>
+  <li>
+   <h2>Exploratory Data Analysis of Authors, Publications, and Citations</h2>
+    <p>Performed exploratory data analysis on the relationships between authors, their publications, and citations, uncovering insights and trends in scholarly work.</p>
+  </li>
 </ol>
 
 <p>I hope you find these projects informative and insightful. Feel free to explore the PDF files to dive deeper into each analysis. For any questions or inquiries, please don't hesitate to reach out to me.</p>
