@@ -11,5 +11,4 @@ This project features a **Power BI Dashboard** that visualizes the latest global
 
 This dashboard goes beyond raw data to visualize key trends and bring to light the competitive landscape of Tekken 8 esports.
 
-## Access the Dashboard
-(https://youtu.be/gzogQ5A3Oe8?si=5-lZiyO_FAV_HrVu)
+## [Access the Dashboard](https://youtu.be/gzogQ5A3Oe8?si=5-lZiyO_FAV_HrVu)
